@@ -14,15 +14,37 @@
     },
     "Alistar": {
       "support": {
-        "general": {
-
-        },
-        "duo": {
-
-        },
-        "matchup": {
-
-        }
+        "general": [
+            "close-combat support with engage and peel",
+            "Main engage combo W + Q. Press Q before W headbutt animation plays to stop knockback",
+            "All-in: W + Q, then chase w/ E",
+            "Q + Flash: buffer Q before flashing",
+            "You will be the primary engage in the Laning phase",
+            "Passive heals when minions are nearby to die so stay in the wave",
+            "Get Watchful Wardstone to light up the map"
+        ],
+        "duo": [
+            { "Caitlyn": [
+                "Caitlyn can use traps under knockup to prolong CC"
+            ]},
+            { "Jhin": [
+                "Follow-up CC with WQ, Jhin Root, then get E stacks and stun",
+                "Burst damage works well with Alistar"
+            ]},
+            { "Draven": [
+                "Strong early game so try and get engages and picks off Lvl 1-4"
+            ]},
+            { "Samira": [
+                "Good follow-up to engage supports"
+            ]}
+        ],
+        "matchup": [
+            { "Thresh": [
+                "E can cancel engage",
+                "WQ is hard to follow up b/c of lantern",
+                "Place a ward on Thresh lantern to stop them from clicking on it"
+            ]}
+        ]
       }
     },
     "Amumu": {
