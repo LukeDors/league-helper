@@ -1,0 +1,481 @@
+{
+  "champions": {
+    "Aatrox": {
+
+    },
+    "Akali": {
+
+    },
+    "Aurelion Sol": {
+
+    },
+    "Ahri": {
+
+    },
+    "Alistar": {
+      "support": {
+        "general": {
+
+        },
+        "duo": {
+
+        },
+        "matchup": {
+
+        }
+      }
+    },
+    "Amumu": {
+
+    },
+    "Anivia": {
+
+    },
+    "Annie": {
+
+    },
+    "Aphelios": {
+
+    },
+    "Ashe": {
+
+    },
+    "Azir": {
+
+    },
+    "Bard": {
+
+    },
+    "Blitzcrank": {
+      "support": {
+        "general": [
+          "Q is your most important move. Level first",
+          "When possible at closer ranges, close gaps and engage with W + E or Flash + E to ensure you CC \n for longer durations as it ensures a follow-up Q landing",
+          "Main combo should be Q + R + E + AA",
+          "Play hyper aggressive levels 1-3, and if no hooks are available just threaten the opposing duo \n with a hook. Especially look for hooks when under tower",
+          "When you have lane priority and the wave has crashed, place a control ward in the river, \nrecall, and look for roams before returning bot",
+          "Try to last hit every cannon when your Relic Shield charges are available. When you get your \n500 gold on your support item, recall and get scanner",
+          "When no teamfights are happening, place deep wards to get more vision",
+          "Engage and peel for whoever is most fed late game"
+        ],
+        "duo": {
+
+        },
+        "matchup": {
+
+        }
+      }
+    },
+    "Brand": {
+
+    },
+    "Braum": {
+
+    },
+    "Camille": {
+
+    },
+    "Caitlyn": {
+
+    },
+    "Cassiopeia": {
+
+    },
+    "Cho": {
+
+    },
+    "Corki": {
+
+    },
+    "Darius": {
+
+    },
+    "Diana": {
+
+    },
+    "Dr. Mundo": {
+
+    },
+    "Draven": {
+
+    },
+    "Ekko": {
+
+    },
+    "Elise": {
+
+    },
+    "Evelynn": {
+
+    },
+    "Ezreal": {
+
+    },
+    "Fiddlesticks": {
+
+    },
+    "Fiora": {
+
+    },
+    "Fizz": {
+
+    },
+    "Galio": {
+
+    },
+    "Gangplank": {
+
+    },
+    "Garen": {
+
+    },
+    "Gnar": {
+
+    },
+    "Gragas": {
+
+    },
+    "Graves": {
+
+    },
+    "Hecarim": {
+
+    },
+    "Heimerdinger": {
+
+    },
+    "Irelia": {
+
+    },
+    "Ivern": {
+
+    },
+    "Illaoi": {
+
+    },
+    "Janna": {
+
+    },
+    "Jarvan": {
+
+    },
+    "Jax": {
+
+    },
+    "Jayce": {
+
+    },
+    "Jhin": {
+
+    },
+    "Jinx": {
+
+    },
+    "Karma": {
+
+    },
+    "Kalista": {
+
+    },
+    "Karthus": {
+
+    },
+    "Kassadin": {
+
+    },
+    "Kai'Sa": {
+
+    },
+    "Katarina": {
+
+    },
+    "Kayn": {
+
+    },
+    "Kayle": {
+
+    },
+    "Kennen": {
+
+    },
+    "Kha": {
+
+    },
+    "Kog": {
+
+    },
+    "Kled": {
+
+    },
+    "Kindred": {
+
+    },
+    "LeBlanc": {
+
+    },
+    "Lee Sin": {
+
+    },
+    "Leona": {
+
+    },
+    "Lillia": {
+
+    },
+    "Lissandra": {
+
+    },
+    "Lucian": {
+
+    },
+    "Lulu": {
+
+    },
+    "Lux": {
+
+    },
+    "Malphite": {
+
+    },
+    "Malzahar": {
+
+    },
+    "Maokai": {
+
+    },
+    "Master": {
+
+    },
+    "Miss": {
+
+    },
+    "Mordekaiser": {
+
+    },
+    "Morgana": {
+
+    },
+    "Nami": {
+
+    },
+    "Nasus": {
+
+    },
+    "Nautilus": {
+
+    },
+    "Neeko": {
+
+    },
+    "Nidalee": {
+
+    },
+    "Nocturne": {
+
+    },
+    "Nunu": {
+
+    },
+    "Olaf": {
+
+    },
+    "Orianna": {
+
+    },
+    "Ornn": {
+
+    },
+    "Pantheon": {
+
+    },
+    "Poppy": {
+
+    },
+    "Pyke": {
+
+    },
+    "Qiana": {
+
+    },
+    "Quinn": {
+
+    },
+    "Rammus": {
+
+    },
+    "Rakan": {
+
+    },
+    "Rek'Sai": {
+
+    },
+    "Renekton": {
+
+    },
+    "Rengar": {
+
+    },
+    "Riven": {
+
+    },
+    "Rumble": {
+
+    },
+    "Ryze": {
+
+    },
+    "Sejuani": {
+
+    },
+    "Senna": {
+
+    },
+    "Sett": {
+
+    },
+    "Shaco": {
+
+    },
+    "Shen": {
+
+    },
+    "Shyvana": {
+
+    },
+    "Singed": {
+
+    },
+    "Sion": {
+
+    },
+    "Sivir": {
+
+    },
+    "Skarner": {
+
+    },
+    "Sona": {
+
+    },
+    "Soraka": {
+
+    },
+    "Swain": {
+
+    },
+    "Syndra": {
+
+    },
+    "Sylas": {
+
+    },
+    "Talon": {
+
+    },
+    "Taliyah": {
+
+    },
+    "Taric": {
+
+    },
+    "Tahm": {
+
+    },
+    "Thresh": {
+
+    },
+    "Teemo": {
+
+    },
+    "Tristana": {
+
+    },
+    "Trundle": {
+
+    },
+    "Tryndamere": {
+
+    },
+    "Twisted": {
+
+    },
+    "Twitch": {
+
+    },
+    "Udyr": {
+
+    },
+    "Urgot": {
+
+    },
+    "Varus": {
+
+    },
+    "Vayne": {
+
+    },
+    "Veigar": {
+
+    },
+    "Vel": {
+
+    },
+    "Vi": {
+
+    },
+    "Viktor": {
+
+    },
+    "Vladimir": {
+
+    },
+    "Volibear": {
+
+    },
+    "Warwick": {
+
+    },
+    "Wukong": {
+
+    },
+    "Xayah": {
+
+    },
+    "Xerath": {
+
+    },
+    "Xin": {
+
+    },
+    "Yasuo": {
+
+    },
+    "Yone": {
+
+    },
+    "Yorick": {
+
+    },
+    "Yuumi": {
+
+    },
+    "Zac": {
+
+    },
+    "Zed": {
+
+    },
+    "Ziggs": {
+
+    },
+    "Zilean": {
+
+    },
+    "Zoe": {
+
+    },
+    "Zyra": {
+
+    }
+  }
+}
